@@ -12,13 +12,13 @@ public class Switch_2024_09_24_2 {
 		switch (score/10) {
 		case 10:
 		grade = 'A';
-		//break;
+		break;
 		case 9: //score는 90~99까지  //switch문에서 case뒤에는 : 임
 		grade = 'A';
-		//break;
+		break;
 		case 8: //score는 80~89까지
 		grade = 'B';
-		//break;
+		break;
 		case 7: //score는 70~79까지
 		grade = 'C';
 		break;
